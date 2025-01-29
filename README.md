@@ -150,5 +150,5 @@ And osTicket is installed!
   ![Screenshot 2025-01-27 104918](https://github.com/user-attachments/assets/341084e4-507b-45e3-85e3-0bc0b88f7832)
  
 
-Thanks for Reviewing! Hope you enjoyed it as much as I did setting it up!
+Thank you for viewing! I hope you enjoyed it as much as did setting it up!
 
